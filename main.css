@@ -1,0 +1,15 @@
+body{
+  font-family: sans-serif;
+  background-color: teal;
+  color: white;
+}
+
+.inner{
+  float: left;
+  border-radius: 15px;
+padding: 100px;
+  background-color: #e63900;
+}
+.answer{
+  font-weight: bold;
+}
